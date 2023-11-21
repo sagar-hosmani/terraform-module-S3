@@ -2,6 +2,6 @@ variable "bucket" {
   type = string
 }
 
-variable"force_destroy" {
+variable "force_destroy" {
   type = bool
 }
